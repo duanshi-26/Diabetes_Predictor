@@ -110,16 +110,6 @@ print("Diabetes:", "Yes" if prediction[0] == 1 else "No")
 
 ---
 
-## 📷 Screenshots
-
-<p align="center">
-  <img src="docs/app-home.png" width="600" alt="App Home"/>
-  <br/>
-  <em>Prediction App Interface</em>
-</p>
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repo
@@ -140,6 +130,7 @@ This project is licensed under the **MIT License** – feel free to use and impr
 
 **Duanshi Chawla**
 🌐 [Your GitHub Profile](https://github.com/duanshi-26)
+
 
 
 
